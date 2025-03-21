@@ -61,4 +61,5 @@ Use the dashboard daily to oversee sales and payments. Let me know if you need a
 
 ---
 
-*(Optional: Add visuals like `![Dashboard Screenshot](dashboard_screenshot.png)` by uploading images to the repository.)*
+![image](https://github.com/user-attachments/assets/8f9370b6-0319-4697-a24b-27d53ffc2863)
+
